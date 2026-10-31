@@ -1,0 +1,13 @@
+data/*
+!data/.gitkeep
+*.pt
+*.pth
+*.ckpt
+*.db
+__pycache__/
+.env
+.env.local
+node_modules/
+.next/
+.venv/
+.ipynb_checkpoints/

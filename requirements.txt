@@ -1,0 +1,10 @@
+PytorchWildlife
+torch
+torchvision
+timm
+opencv-python
+pandas
+pyarrow
+openai
+python-dotenv
+pytest
